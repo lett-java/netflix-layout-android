@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Netflix</string>
+    <string name="Menu_Subtitles">subtitles</string>
+    <string name="Menu_Audio">audio</string>
+    <string name="Menu_Classification">classification</string>
+    <string name="Menu_Ep">episode</string>
+</resources>
